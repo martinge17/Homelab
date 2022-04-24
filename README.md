@@ -1,2 +1,2 @@
-# Homelab
-Small homelab setup
+# Homelab 
+Coming Soon!
